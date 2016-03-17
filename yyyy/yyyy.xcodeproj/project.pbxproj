@@ -13,6 +13,7 @@
 		C2B0E1981C9A46E700DCE4A2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2B0E1961C9A46E700DCE4A2 /* Main.storyboard */; };
 		C2B0E19A1C9A46E700DCE4A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2B0E1991C9A46E700DCE4A2 /* Assets.xcassets */; };
 		C2B0E19D1C9A46E700DCE4A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2B0E19B1C9A46E700DCE4A2 /* LaunchScreen.storyboard */; };
+		C2B0E1A61C9A487B00DCE4A2 /* TTTTViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C2B0E1A51C9A487B00DCE4A2 /* TTTTViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		C2B0E1991C9A46E700DCE4A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2B0E19C1C9A46E700DCE4A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2B0E19E1C9A46E700DCE4A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2B0E1A41C9A487B00DCE4A2 /* TTTTViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTTViewController.h; sourceTree = "<group>"; };
+		C2B0E1A51C9A487B00DCE4A2 /* TTTTViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTTViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				C2B0E1911C9A46E700DCE4A2 /* AppDelegate.m */,
 				C2B0E1931C9A46E700DCE4A2 /* ViewController.h */,
 				C2B0E1941C9A46E700DCE4A2 /* ViewController.m */,
+				C2B0E1A41C9A487B00DCE4A2 /* TTTTViewController.h */,
+				C2B0E1A51C9A487B00DCE4A2 /* TTTTViewController.m */,
 				C2B0E1961C9A46E700DCE4A2 /* Main.storyboard */,
 				C2B0E1991C9A46E700DCE4A2 /* Assets.xcassets */,
 				C2B0E19B1C9A46E700DCE4A2 /* LaunchScreen.storyboard */,
@@ -151,6 +156,7 @@
 			files = (
 				C2B0E1951C9A46E700DCE4A2 /* ViewController.m in Sources */,
 				C2B0E1921C9A46E700DCE4A2 /* AppDelegate.m in Sources */,
+				C2B0E1A61C9A487B00DCE4A2 /* TTTTViewController.m in Sources */,
 				C2B0E18F1C9A46E700DCE4A2 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
